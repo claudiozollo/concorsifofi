@@ -104,12 +104,12 @@ mail:
       enable: false
   encoding: UTF-8
   from:
-    default: concorsi@fofi.it
-  admin: concorsi@fofi.it
+    default: info@concorsifofi.it
+  admin: info@concorsifofi.it
   to:
     error:
-      message: concorsi@fofi.it
-  helpdesk: concorsi@fofi.it
+      message: info@concorsifofi.it
+  helpdesk: info@concorsifofi.it
   error:
     enabled: true
   create:
