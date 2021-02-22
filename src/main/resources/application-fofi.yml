@@ -93,8 +93,8 @@ user:
 mail:
   host: smtps.aruba.it
   port: 587
-  username: info@concorsifofi.it
-  password: Claudio2020
+  username: 
+  password: 
   smtp:
     host: ${mail.host}
     user: ${mail.username}
