@@ -86,13 +86,14 @@ user:
     username: admin
     password: admin
 
+
 #-----------------------------
 # Outbound Email Configuration
 #------------------------------
 mail:
-  host: smtp.fofi.it
-  port: 25
-  username: concorsi@fofi.it
+  host: smtps.aruba.it
+  port: 587
+  username: info@concorsifofi.it
   password: Claudio2020
   smtp:
     host: ${mail.host}
