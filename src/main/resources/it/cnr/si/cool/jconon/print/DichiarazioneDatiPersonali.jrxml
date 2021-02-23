@@ -342,7 +342,7 @@
 				<textElement textAlignment="Justified" verticalAlignment="Top" markup="none">
 					<font isBold="false" isUnderline="false"/>
 				</textElement>
-				<textFieldExpression><![CDATA["Il Titolare del trattamento è: il Consiglio Nazionale delle Ricerche – Piazzale Aldo Moro n. 7 – 00185 Roma PEC: protocollo-ammcen@pec.cnr.it, per il tramite dei contatti indicati nell’articolo del bando rubricato “Trattamento dei dati personali”."]]></textFieldExpression>
+				<textFieldExpression><![CDATA["Il Titolare del trattamento è: Fofi – Via palestro, 75 – 00185 Roma PEC: posta@pec.fofi.it, per il tramite dei contatti indicati nell’articolo del bando rubricato “Trattamento dei dati personali”."]]></textFieldExpression>
 			</textField>
 		</band>
 		<band height="20" splitType="Stretch">
@@ -358,7 +358,7 @@
 				<textElement textAlignment="Justified" verticalAlignment="Top" markup="none">
 					<font isBold="false" isUnderline="false"/>
 				</textElement>
-				<textFieldExpression><![CDATA["I dati di contatto del Responsabile della protezione dei dati sono: E-mail: rpd@cnr.it; PEC: protocollo-ammcen@pec.cnr.it  presso il Consiglio Nazionale delle Ricerche – Piazzale Aldo Moro n. 7 – 00185 Roma."]]></textFieldExpression>
+				<textFieldExpression><![CDATA["I dati di contatto del Responsabile della protezione dei dati sono: E-mail: dpo_fofi@protectiontrade.it; presso la Fofi – Via palestro, 75 – 00185 Roma."]]></textFieldExpression>
 			</textField>
 		</band>
 		<band height="20" splitType="Stretch">
@@ -367,7 +367,7 @@
 				<textElement verticalAlignment="Top">
 					<font isBold="false" isUnderline="false"/>
 				</textElement>
-				<text><![CDATA[8)]]></text>
+				<text><![CDATA[7)]]></text>
 			</staticText>
 			<textField isStretchWithOverflow="true">
 				<reportElement key="staticText-40" style="FONT_Bold" x="22" y="4" width="492" height="15" uuid="7ed1ea52-befb-4f75-a296-421e18954665"/>
@@ -383,7 +383,7 @@
 				<textElement verticalAlignment="Top">
 					<font isBold="false" isUnderline="false"/>
 				</textElement>
-				<text><![CDATA[9)]]></text>
+				<text><![CDATA[8)]]></text>
 			</staticText>
 			<textField isStretchWithOverflow="true">
 				<reportElement key="staticText-40" style="FONT_Bold" x="22" y="4" width="492" height="15" uuid="7ed1ea52-befb-4f75-a296-421e18954665"/>
@@ -399,7 +399,7 @@
 				<textElement verticalAlignment="Top">
 					<font isBold="false" isUnderline="false"/>
 				</textElement>
-				<text><![CDATA[10)]]></text>
+				<text><![CDATA[9)]]></text>
 			</staticText>
 			<textField isStretchWithOverflow="true">
 				<reportElement key="staticText-40" style="FONT_Bold" x="22" y="4" width="492" height="15" uuid="7ed1ea52-befb-4f75-a296-421e18954665"/>
